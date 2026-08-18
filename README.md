@@ -12,7 +12,7 @@ Un tablero Kanban pequeño, construido para demostrar React, una API REST con Ex
 
 ## Ejecutar localmente
 
-Requiere Node.js 22.5 o superior (usa `node:sqlite`, SQLite incorporado en Node).
+Requiere Node.js 22.5 o superior.
 
 ```bash
 cd server && npm install && npm run dev
