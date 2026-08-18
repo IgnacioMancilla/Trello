@@ -1,4 +1,3 @@
-<img width="1240" height="817" alt="Captura de pantalla 2026-08-18 a la(s) 5 16 29 p m" src="https://github.com/user-attachments/assets/06d89112-7e50-450d-8eb8-6a0c5f3c2155" />
 # Kanban Portfolio MVP
 
 Un tablero Kanban pequeño, construido para demostrar React, una API REST con Express y persistencia SQLite.
